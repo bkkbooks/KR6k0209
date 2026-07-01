@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6k0209/x/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 南山祖師禮讚文
+  edition:
+    short: x
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1506.xml
+    old_id: X74n1506
+hash: sha256:c11bea2be90e207d6872c2f4aafb36702bac8bdfe67da1d930768c38eb5c5c4c

@@ -1,0 +1,102 @@
+canonical_identifier: bkk:krp/KR6k0209/v1
+canonical_location: https://kanripo.org/bkk/KR6k0209/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 南山祖師禮讚文
+  identifiers:
+    alt_id:
+    - X74n1506
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X74/X74n1506.xml
+    old_id: X74n1506
+  edition:
+    short: bkk
+editions:
+- short: 卍續
+  label: 卍續
+  source_xml_id: wit.orig
+- short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6k0209_000.yaml, hash: 'sha256:c11bea2be90e207d6872c2f4aafb36702bac8bdfe67da1d930768c38eb5c5c4c'}
+  - {seq: 1, filename: KR6k0209_001.yaml, hash: 'sha256:66dad414aeee492ae4f61ef5025f8c869a1be5c4168226a2b9e51b4fb21a90b7'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6k0209_001.markers.yaml, hash: 'sha256:5735b9f879b6757fe89af1ffdb7504338d7f1d2723fd1eed6866ce6236c8172a'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 1590
+  label: 南山祖師禮讚文
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-1
+    span:
+    - body
+    - 8
+    - 8
+  label: 前文
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-2
+    span:
+    - body
+    - 1019
+    - 1019
+  label: 至心懺悔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-3
+    span:
+    - body
+    - 1334
+    - 1334
+  label: 至心勸請
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-4
+    span:
+    - body
+    - 1366
+    - 1366
+  label: 至心隨喜
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-5
+    span:
+    - body
+    - 1398
+    - 1398
+  label: 至心迴向
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6k0209_X_001-mulu-6
+    span:
+    - body
+    - 1430
+    - 1430
+  label: 至心發願
+  type: mulu
+  level: 1
+hash: sha256:a36d917f0525a355f0fafb32ff8d8a258fdce1645966c22941721eb5b29e2145
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
