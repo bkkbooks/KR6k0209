@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6k0209_000.yaml, hash: 'sha256:c11bea2be90e207d6872c2f4aafb36702bac8bdfe67da1d930768c38eb5c5c4c'}
-  - {seq: 1, filename: KR6k0209_001.yaml, hash: 'sha256:66dad414aeee492ae4f61ef5025f8c869a1be5c4168226a2b9e51b4fb21a90b7'}
+  - {seq: 1, filename: KR6k0209_001.yaml, hash: 'sha256:c526f979743a9ebbcc47efe30d79f21163abc614ffda21697d6b7eec6303dc8f'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6k0209_001.markers.yaml, hash: 'sha256:5735b9f879b6757fe89af1ffdb7504338d7f1d2723fd1eed6866ce6236c8172a'}
+  - {seq: 0, role: markers, filename: assets/KR6k0209_000.markers.yaml, hash: 'sha256:6cd373dd7ca041627f63bc7be1f6bf53af0f84e9bb14bfb7b6b5db1b380eaa04'}
+  - {seq: 1, role: markers, filename: assets/KR6k0209_001.markers.yaml, hash: 'sha256:efe8522631783e4deefbbd113213a903789f66b6c6428028dcba8d51b5c07ce8'}
 table_of_contents:
 - ref:
     seq: 1
@@ -96,7 +97,4 @@ table_of_contents:
   label: 至心發願
   type: mulu
   level: 1
-hash: sha256:a36d917f0525a355f0fafb32ff8d8a258fdce1645966c22941721eb5b29e2145
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:614ac1e07ec5018bc780c1696f14db1301f6df51e8afb0474b21ce108687457f
